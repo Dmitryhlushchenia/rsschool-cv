@@ -27,3 +27,12 @@ var complexComputation = function () { /* do some complex stuff and return a nod
 
 
 ```
+
+### Experience
+Writing a financial accounting system
+
+### Education
+Oxford University
+
+### English
+strong intermediate level
