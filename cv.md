@@ -4,11 +4,17 @@
 
 * **tel**: +375447365080
 * **telegram**: hlushchenia
+
 ### Summary
+
 I learn fast. Now I work as a developer. I want to learn this course
+
 ### Skills
+
 PHP, Symfony, js
+
 ### Code examples
+
 ```javascript
 			var findNodes = function (callback) {
 				var nodes = [];
@@ -26,10 +32,13 @@ PHP, Symfony, js
 ```
 
 ### Experience
+
 Writing a financial accounting system
 
 ### Education
+
 Oxford University
 
 ### English
+
 strong intermediate level
