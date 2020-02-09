@@ -10,9 +10,6 @@ I learn fast. Now I work as a developer. I want to learn this course
 PHP, Symfony, js
 ### Code examples
 ```javascript
-var complexComputation = function () { /* do some complex stuff and return a node */
-			};
-
 			var findNodes = function (callback) {
 				var nodes = [];
 
@@ -26,8 +23,6 @@ var complexComputation = function () { /* do some complex stuff and return a nod
 				nodes.push(node);
 				return nodes;
 			};
-
-
 ```
 
 ### Experience
